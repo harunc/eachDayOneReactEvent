@@ -28,4 +28,6 @@ and with a "show details" button on cards I have managed to navigate to details 
 
 Basicly, I have designed a small FAQ page with accordion styling. There are 5 questions I took from data.js and I have made an accordion with conditional rendering.
 
-6-) Menu Example is under construction. :warning: 
+6-) Menu Page	:pizza:
+
+Basicly, I have designed a menu page which has foods in different categories. I have added some tabs to filter the foods and rerender the menu. Apart from that, I have used dynamic approach while creating tabs. For instance, if you add a new food with different category to the data.js, my menu will dynamically creates that category tab and filters it.
