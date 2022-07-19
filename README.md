@@ -32,6 +32,6 @@ Basicly, I have designed a small FAQ page with accordion styling. There are 5 qu
 
 Basicly, I have designed a menu page which has foods in different categories. I have added some tabs to filter the foods and rerender the menu. Apart from that, I have used dynamic approach while creating tabs. For instance, if you add a new food with different category to the data.js, my menu will dynamically creates that category tab and filters it.
 
-7-) Elysium App:
+7-) Elysium App: :shopping_cart:
 
 This app is an ecommerce website project. I haven't added payment method yet. I have used Sanity for Backend works.
