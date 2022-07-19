@@ -35,3 +35,7 @@ Basicly, I have designed a menu page which has foods in different categories. I 
 7-) Elysium App: :shopping_cart:
 
 This app is an ecommerce website project. I haven't added payment method yet. I have used Sanity for Backend works.
+
+8-) Simba Portfolio: 
+
+This is just a portfolio website. Seems cool to me. Probably I will deploy it soon.
