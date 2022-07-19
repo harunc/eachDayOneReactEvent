@@ -36,6 +36,6 @@ Basicly, I have designed a menu page which has foods in different categories. I 
 
 This app is an ecommerce website project. I haven't added payment method yet. I have used Sanity for Backend works.
 
-8-) Simba Portfolio: 
+8-) Simba Portfolio: :bearded_person:
 
 This is just a portfolio website. Seems cool to me. Probably I will deploy it soon.
