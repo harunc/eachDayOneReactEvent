@@ -1,41 +1,70 @@
-# eachDayOneReactEvent
-Each day I am triyng to prepare some small react project-pages.
+# Getting Started with Create React App
 
-Screenshots or little videos that shows functionality of pages will be uploaded soon.
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-# Pages and apps respectively:
-1-) Tour List: :world_map:
+## Available Scripts
 
-Basicly, I have used some custom hooks such as useState and useEffect. I have practiced JSX format and fetch.
+In the project directory, you can run:
 
-2-) To-do List: :heavy_check_mark:
+### `npm start`
 
-Basicly, I have designed a To-do list app with add,delete,complete,update buttons. I have used some custom hooks such as useState, useEffect.
-I have practiced JSX, CSS. I have used conditional rendering and local storage.
+Runs the app in the development mode.\
+Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
-3-) Review Page: :memo:
+The page will reload when you make changes.\
+You may also see any lint errors in the console.
 
-Basicly, I have designed a page which shows some reviews from data.js. I have used prev, next and random buttons to show reviews. 
-I have used data destructing method and some custom hooks such as useState.
+### `npm test`
 
-4-) BookStore Pages: :books:
+Launches the test runner in the interactive watch mode.\
+See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
 
-Basicly I have designed couple of pages to show books as a list and a page for detailed information. I have practiced Dynamic-static Routing together.
-I have practiced parameter passing and used some custom hooks such as useState, useEffect, useNavigate. I have listed books as cards on main page
-and with a "show details" button on cards I have managed to navigate to details page and passed to parameters from the link.
+### `npm run build`
 
-5-) Accordion Page: :interrobang:
+Builds the app for production to the `build` folder.\
+It correctly bundles React in production mode and optimizes the build for the best performance.
 
-Basicly, I have designed a small FAQ page with accordion styling. There are 5 questions I took from data.js and I have made an accordion with conditional rendering.
+The build is minified and the filenames include the hashes.\
+Your app is ready to be deployed!
 
-6-) Menu Page:	:pizza:
+See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
-Basicly, I have designed a menu page which has foods in different categories. I have added some tabs to filter the foods and rerender the menu. Apart from that, I have used dynamic approach while creating tabs. For instance, if you add a new food with different category to the data.js, my menu will dynamically creates that category tab and filters it.
+### `npm run eject`
 
-7-) Elysium App: :shopping_cart:
+**Note: this is a one-way operation. Once you `eject`, you can't go back!**
 
-This app is an ecommerce website project. I haven't added payment method yet. I have used Sanity for Backend works. I have used NextJS.
+If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
 
-8-) Simba Portfolio: :bearded_person:
+Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
 
-This is just a portfolio website. Seems cool to me. Probably I will deploy it soon.
+You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+
+## Learn More
+
+You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+
+To learn React, check out the [React documentation](https://reactjs.org/).
+
+### Code Splitting
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+
+### Analyzing the Bundle Size
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+
+### Making a Progressive Web App
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+
+### Advanced Configuration
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+
+### Deployment
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
+
+### `npm run build` fails to minify
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
